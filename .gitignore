@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Don't include "github.com/gregorthebigmac/command" in this repo. Write a
+# script which downloads it before the user compiles+builds this repo.
+src/command/
