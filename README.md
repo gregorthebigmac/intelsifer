@@ -1,0 +1,2 @@
+# intelsifer
+(Work In Progress) An intelligent file transfer program, which will not only recursively copy files and directories, maintaining their heirarchy, but if met with a conflict, it will keep whichever file was modified most recently, AND (this is the best part) it will calculate which would be faster: to transfer all files individually, or if it would be faster to compress the files and subsequently transfer one or more compressed files and decompress them on the receiving machine's end, and do so without being prompted.
